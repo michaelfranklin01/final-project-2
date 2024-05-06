@@ -1,6 +1,6 @@
 I created a Todo List application. You can send the Todo lists you create to your gmail account by e-mail. In this way, you will never forget what you will do. It's a simple app, but I'm excited because it's one of my first projects.
 
-In order to run the program, you must create a database using XAMPP.
+In order to run the program, you must create a database with XAMPP.
 
 Referenced Libraries :
 

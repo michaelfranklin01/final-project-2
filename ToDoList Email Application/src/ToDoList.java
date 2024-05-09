@@ -34,6 +34,7 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.border.EtchedBorder;
 import javax.swing.border.TitledBorder;
 
+import model.ToDoList_DB;
 import net.proteanit.sql.DbUtils;
 
 public class ToDoList extends JFrame {

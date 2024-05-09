@@ -75,9 +75,10 @@ public class SimpleCalendar extends JFrame {
                 dayLabel.setOpaque(true);
                 dayLabel.setBackground(Color.CYAN);
             }
+            int i2 = i;
             dayLabel.addMouseListener(new MouseAdapter() {
                 public void mouseClicked(MouseEvent e) {
-                    JOptionPane.showMessageDialog(null, "Day " + i + " clicked!");
+                    JOptionPane.showMessageDialog(null, "Day " + i2 + " clicked!");
                 }
             });
         }
